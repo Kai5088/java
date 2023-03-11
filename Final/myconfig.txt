@@ -1,0 +1,10 @@
+show_email: true
+verify_string: 12345
+show_sort_order: asc
+show_catalog: true
+show_name: true
+show_phone: true
+show_defalt_perpage: 4
+show_sort_property: id
+show_birthday: true
+used_last_id: 14

@@ -1,0 +1,2 @@
+javac AddressBook.java
+java AddressBook
